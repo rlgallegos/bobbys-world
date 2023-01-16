@@ -1,6 +1,8 @@
 const skyBlue = document.getElementById('sky-blue');
 const body = document.querySelector('body');
 
+function
+
 skyBlue.addEventListener('click', function() {
-    body.style.backgroundColor = 'blue';
+    document.body.style.backgroundColor = 'blue';
 });
