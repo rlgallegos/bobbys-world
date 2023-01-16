@@ -1,6 +1,8 @@
 /*Heading and Footer Styles*/
 body {
     background: #87ceeb;
+    margin-left: 40px;
+    margin-right: 40px;
 }
 
 h1 {
@@ -31,8 +33,9 @@ img#profile-pic {
 div#img-container {
     width: auto; text-align: right;
 }
-div#about-me {
-    text-align: left;
+#about-me > p {
+    text-align: justify;
+    text-indent: 20px;
 }
 div.list-blocks {
     width: 33%; float: left;
