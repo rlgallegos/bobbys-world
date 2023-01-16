@@ -1,5 +1,5 @@
 body {
-    background: lightgreen;
+    background: skyblue;
 }
 
 h1 {
@@ -7,4 +7,7 @@ h1 {
 }
 h2 {
     text-align: right; font-size: smaller;
+}
+h3 {
+    text-align: left; font-size: medium;
 }
