@@ -4,5 +4,5 @@ const body = document.querySelector('body');
 function
 
 skyBlue.addEventListener('click', function() {
-    document.body.style.backgroundColor = 'blue';
+    skyBlue.style.backgroundColor = 'white';
 });
