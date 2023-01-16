@@ -7,8 +7,8 @@ const white = document.getElementById('white');
 
 //set function to change pointer
 
-function makePointer(element) {
-    element.body.style.cursor = 'pointer'
+function makePointer() {
+    document.body.style.cursor = 'pointer'
 }
 
 //Sky Blue event liseteners
@@ -16,6 +16,8 @@ skyBlue.addEventListener("click", function() {
     document.body.style.backgroundColor = '#87ceeb';
 });
 skyBlue.addEventListener('mouseover', makePointer);
+
+
 
 forestGreen.addEventListener("click", function() {
     document.body.style.backgroundColor = '#228B22';
