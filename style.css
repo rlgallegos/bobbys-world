@@ -11,9 +11,9 @@ h2 {
 h3 {
     text-align: left; font-size: medium;
 }
-img {
-    width: 25%;
+img#profile-pic {
+    width: 1200px;
 }
 body div#img-container {
-    align-content: right;
+    text-align: right;
 }
