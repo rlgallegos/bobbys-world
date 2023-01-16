@@ -20,3 +20,6 @@ div#img-container {
 div#about-me {
     text-align: left;
 }
+div.list-blocks {
+    width: 50%; text-align: center; float: left;
+}
