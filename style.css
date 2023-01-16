@@ -39,8 +39,12 @@ div.list-blocks {
 }
 ul.lists {
     text-align: left;
+    font-weight: bold;
     list-style-position: inside;
     margin-left: 40px;
+}
+ul.lists > li {
+    font-weight: normal;
 }
 div.color-block {
     text-align: center;
@@ -52,5 +56,4 @@ div.color-block {
     border-color: white;
     padding-top: 20px;
     padding-bottom: 20px;
-    font-weight: bold;
 }
