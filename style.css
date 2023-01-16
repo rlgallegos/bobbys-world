@@ -39,6 +39,7 @@ div.list-blocks {
 }
 div.list-blocks > p {
     font-weight: bold;
+    text-align: center;
 }
 ul.lists {
     text-align: left;
