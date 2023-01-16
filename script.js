@@ -21,7 +21,7 @@ forestGreen.addEventListener("click", function() {
 });
 
 forestGreen.addEventListener('mouseover', function() {
-    forestGreen.body.style.cursor = 'pointer'
+    forestGreen.body.style.cursor = 'pointer';
 });
 
 //Crimson Red event listeners
@@ -30,8 +30,16 @@ crimsonRed.addEventListener("click", function() {
     document.body.style.backgroundColor = '#900';
 });
 
+crimsonRed.addEventListener('mouseover', function() {
+    crimsonRed.body.style.cursor = 'pointer';
+});
+
 //White event listeners
 
 white.addEventListener("click", function() {
     document.body.style.backgroundColor = '#fff';
+});
+
+white.addEventListener('mouseover', function() {
+    white.body.style.cursor = 'pointer';
 });
