@@ -6,5 +6,5 @@ const skyBlue = document.getElementById('sky-blue');
 
 skyBlue.addEventListener('click', function() {
     const body = document.querySelector('body');
-    body.style.backgroundColor = '#87ceeb';
+    body.style.backgroundColor = 'lightblue';
 });
