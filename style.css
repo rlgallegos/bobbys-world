@@ -31,8 +31,9 @@ ul.lists {
     list-style-position: inside;
     margin-left: 40px;
 }
-.color-block {
+div.color-block {
     text-align: center;
-    margin-left: 50%;
-    margin-top: 50%;
+    margin-left: 20px;
+    margin-top: 20px;
+    float: left;
 }
