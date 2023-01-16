@@ -12,10 +12,10 @@ h3 {
     text-align: left; font-size: medium;
 }
 img#profile-pic {
-    float: right; width: 400px;
+    float: right; width: 200px;
 }
 div#img-container {
-    width: 400px; text-align: right;
+    width: auto; text-align: right;
 }
 div#about-me {
     text-align: left;
