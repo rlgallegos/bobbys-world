@@ -14,9 +14,9 @@ h3 {
 img#profile-pic {
     width: 400px;
 }
-body div#img-container {
-    text-align: right;
+div#img-container {
+    width: 400px; text-align: right;
 }
-body div#about-me {
+div#about-me {
     text-align: right;
 }
