@@ -37,9 +37,11 @@ div#about-me {
 div.list-blocks {
     width: 33%; float: left;
 }
+div.list-blocks > p {
+    font-weight: bold;
+}
 ul.lists {
     text-align: left;
-    font-weight: bold;
     list-style-position: inside;
     margin-left: 40px;
 }
