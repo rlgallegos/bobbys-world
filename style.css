@@ -23,3 +23,6 @@ div#about-me {
 div.list-blocks {
     width: 50%; text-align: center; float: left;
 }
+ul.lists {
+    text-align: left;
+}
