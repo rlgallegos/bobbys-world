@@ -1,4 +1,4 @@
-/*Heading Styles*/
+/*Heading and Footer Styles*/
 body {
     background: #87ceeb;
 }
@@ -17,6 +17,9 @@ h4 {
     margin: auto;
     margin-bottom: 10px;
     width: fit-content;
+}
+footer {
+    height: 150px;
 }
 
 /*Other Styles*/
